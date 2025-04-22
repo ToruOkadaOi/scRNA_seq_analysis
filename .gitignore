@@ -1,0 +1,50 @@
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Notebooks and temporary copies
+*checkpoint*.ipynb
+*.ipynb~
+
+# Docker
+*.sif
+*.tar
+*.img
+*.log
+
+# Bioinformatics output
+*.fastq
+*.fastq.gz
+*.fq
+*.bam
+*.bai
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.vcf
+*.tsv
+*.csv
+*.html
+*.pdf
+*.rds
+
+# Cache and working folders
+analysis/cache/
+analysis/.ipynb_checkpoints/
+output/
+tmp/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
